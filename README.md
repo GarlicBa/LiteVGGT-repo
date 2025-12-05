@@ -21,6 +21,7 @@ China Mobile Zijin Innovation Institute
 ##  Overview
 
 For 1000 input images, LiteVGGT achieves a **10× speedup** over VGGT while maintaining high accuracy in camera pose and point cloud prediction. Its scalability and robustness make large-scale scene reconstruction more efficient and reliable.
+
 <img src="assets/teaser.png" alt="teaser" width="">
 
 
@@ -105,7 +106,7 @@ python eval/eval_DTU.py \
 
 ## Acknowledgements
 
-Thanks to these great repositories: [VGGT](https://github.com/facebookresearch/vggt),[FastVGGT](https://github.com/mystorm16/FastVGGT) [Dust3r](https://github.com/naver/dust3r),  [Fast3R](https://github.com/facebookresearch/fast3r), [CUT3R](https://github.com/CUT3R/CUT3R), [StreamVGGT](https://github.com/wzzheng/StreamVGGT), [ToMeSD](https://github.com/dbolya/tomesd) and many other inspiring works in the community.
+Thanks to these great repositories: [VGGT](https://github.com/facebookresearch/vggt), [FastVGGT](https://github.com/mystorm16/FastVGGT), [Dust3r](https://github.com/naver/dust3r), [Fast3R](https://github.com/facebookresearch/fast3r), [CUT3R](https://github.com/CUT3R/CUT3R), [StreamVGGT](https://github.com/wzzheng/StreamVGGT), [ToMeSD](https://github.com/dbolya/tomesd) and many other inspiring works in the community.
 
 
 <!-- ## Citation
