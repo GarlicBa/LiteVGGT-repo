@@ -21,7 +21,6 @@ China Mobile Zijin Innovation Institute
 ##  Overview
 
 For 1000 input images, LiteVGGT achieves a **10× speedup** over VGGT while maintaining high accuracy in camera pose and point cloud prediction. Its scalability and robustness make large-scale scene reconstruction more efficient and reliable.
-
 <img src="assets/teaser.png" alt="teaser" width="">
 
 
