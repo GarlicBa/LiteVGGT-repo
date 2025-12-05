@@ -102,13 +102,13 @@ def main(args):
 
     img_dir = args.img_dir
 
-    # all_images = [os.path.join(img_dir, f) for f in os.listdir(img_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.gif'))]
-    all_images = [
-        os.path.join(img_dir, f)
-        for f in os.listdir(img_dir)
-        if f.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.gif'))
-        and "color" in f.lower()
-    ]
+    all_images = [os.path.join(img_dir, f) for f in os.listdir(img_dir) if f.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.gif'))]
+    # all_images = [
+    #     os.path.join(img_dir, f)
+    #     for f in os.listdir(img_dir)
+    #     if f.lower().endswith(('.png', '.jpg', '.jpeg', '.bmp', '.gif'))
+    #     and "color" in f.lower()
+    # ]
 
     images=[]
     for img_path in all_images:
