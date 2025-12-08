@@ -109,14 +109,14 @@ python eval/eval_DTU.py \
 Thanks to these great repositories: [VGGT](https://github.com/facebookresearch/vggt), [FastVGGT](https://github.com/mystorm16/FastVGGT), [Dust3r](https://github.com/naver/dust3r), [Fast3R](https://github.com/facebookresearch/fast3r), [CUT3R](https://github.com/CUT3R/CUT3R), [StreamVGGT](https://github.com/wzzheng/StreamVGGT), [ToMeSD](https://github.com/dbolya/tomesd) and many other inspiring works in the community.
 
 
-<!-- ## Citation
+## Citation
 
 If you find this project helpful, citing our paper would be greatly appreciated:
 ```bibtex
-@inproceedings{wang2025vggt,
-  title={VGGT: Visual Geometry Grounded Transformer},
-  author={Wang, Jianyuan and Chen, Minghao and Karaev, Nikita and Vedaldi, Andrea and Rupprecht, Christian and Novotny, David},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+@article{shu2025litevggt,
+  title={LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging},
+  author={Shu, Zhijian and Lin, Cheng and Xie, Tao and Yin, Wei and Li, Ben and Pu, Zhiyuan and Li, Weize and Yao, Yao and Cao, Xun and Guo, Xiaoyang and others},
+  journal={arXiv preprint arXiv:2512.04939},
   year={2025}
 }
-``` -->
+```
