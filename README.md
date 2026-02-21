@@ -18,7 +18,8 @@ China Mobile Zijin Innovation Institute
 
 
 ## News
-- [Feb 21, 2026] 🎉 LiteVGGT has been accepted to CVPR 2026.
+[Feb 21, 2026]  LiteVGGT has been accepted to CVPR 2026!
+
 
 ##  Overview
 
