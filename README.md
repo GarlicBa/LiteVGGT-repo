@@ -2,7 +2,7 @@
 <div align="center">
   <h1>LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging</h1>
 
-<a href="https://arxiv.org/abs/2512.04939"><img src="[https://img.shields.io/badge/arXiv-2512.04939-b31b1b](https://arxiv.org/abs/2512.04939)" alt="arXiv"></a >
+<a href="https://arxiv.org/abs/2512.04939"><img src="https://img.shields.io/badge/arXiv-2512.04939-b31b1b" alt="arXiv"></a >
 <a href="https://garlicba.github.io/LiteVGGT/"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
 
 **[Zhijian Shu](#), [Cheng Lin](https://clinplayer.github.io/), [Tao Xie](https://github.com/xbillowy), [Wei Yin](https://yvanyin.xyz/), [Ben Li](https://github.com/fanerlight), [Zhiyuan Pu](https://openreview.net/profile?id=~Zhiyuan_Pu1),**  
