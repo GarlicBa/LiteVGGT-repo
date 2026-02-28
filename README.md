@@ -5,7 +5,7 @@
 <a href="https://arxiv.org/abs/2512.04939"><img src="https://img.shields.io/badge/arXiv-2512.04939-b31b1b" alt="LiteVGGT"></a >
 <a href="https://garlicba.github.io/LiteVGGT/"><img src="https://img.shields.io/badge/Project_Page-green" alt="Project Page"></a>
 
-**[Zhijian Shu](#), [Cheng Lin](https://clinplayer.github.io/), [Tao Xie](https://github.com/xbillowy), [Wei Yin](https://yvanyin.xyz/), [Ben Li](https://github.com/fanerlight), [Zhiyuan Pu](https://openreview.net/profile?id=~Zhiyuan_Pu1),**  
+**[Zhijian Shu](https://garlicba.github.io/), [Cheng Lin](https://clinplayer.github.io/), [Tao Xie](https://github.com/xbillowy), [Wei Yin](https://yvanyin.xyz/), [Ben Li](https://github.com/fanerlight), [Zhiyuan Pu](https://openreview.net/profile?id=~Zhiyuan_Pu1),**  
 **[Weize Li](https://ericlee0224.github.io/), [Yao Yao](https://yoyo000.github.io/), [Xun Cao](https://cite.nju.edu.cn/People/Faculty/20190621/i5054.html), [Xiaoyang Guo](https://xy-guo.github.io/), [Xiao-Xiao Long](https://www.xxlong.site/)**
 
 
